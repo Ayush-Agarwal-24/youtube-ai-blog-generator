@@ -9,13 +9,13 @@
  - **Blog Post Generation**: Utilize AI to convert transcriptions into well-structured blog posts.
  - **Blog Management**: Users can view and manage their generated blog posts.
 
-    ![Login Page]("backend\ai_blog_app\Screenshot (113).png")
-    ![Signup Page]("backend\ai_blog_app\screenshots\Screenshot 2024-06-05 143456.png")
-    ![Index Page]("backend\ai_blog_app\screenshots\Screenshot 2024-06-05 143536.png")
-    ![Youtube Link Added]("backend\ai_blog_app\screenshots\Screenshot 2024-06-05 143737.png")
-    ![Generated Blog Article]("backend\ai_blog_app\screenshots\Screenshot 2024-06-05 143851.png")
-    ![All Saved Blog Posts]("backend\ai_blog_app\screenshots\Screenshot 2024-06-05 143919.png")
-    ![Blog Post Details]("backend\ai_blog_app\screenshots\Screenshot 2024-06-05 144000.png")
+    ![Login Page]("screenshots/Screenshot (113).png")
+    ![Signup Page]("screenshots/Screenshot 2024-06-05 143456.png")
+    ![Index Page]("screenshots/Screenshot 2024-06-05 143536.png")
+    ![Youtube Link Added]("screenshots/Screenshot 2024-06-05 143737.png")
+    ![Generated Blog Article]("screenshots/Screenshot 2024-06-05 143851.png")
+    ![All Saved Blog Posts]("screenshots/Screenshot 2024-06-05 143919.png")
+    ![Blog Post Details]("screenshots/Screenshot 2024-06-05 144000.png")
 
 
  ## Prerequisites
