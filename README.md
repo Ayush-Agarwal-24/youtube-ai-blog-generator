@@ -9,13 +9,13 @@
  - **Blog Post Generation**: Utilize AI to convert transcriptions into well-structured blog posts.
  - **Blog Management**: Users can view and manage their generated blog posts.
 
-    ![Login Page]("screenshots/Screenshot (113).png")
-    ![Signup Page]("screenshots/Screenshot 2024-06-05 143456.png")
-    ![Index Page]("screenshots/Screenshot 2024-06-05 143536.png")
-    ![Youtube Link Added]("screenshots/Screenshot 2024-06-05 143737.png")
-    ![Generated Blog Article]("screenshots/Screenshot 2024-06-05 143851.png")
-    ![All Saved Blog Posts]("screenshots/Screenshot 2024-06-05 143919.png")
-    ![Blog Post Details]("screenshots/Screenshot 2024-06-05 144000.png")
+    ![Login Page](https://github.com/Ayush-Agarwal-24/youtube-ai-blog-generator/blob/main/screenshots/Screenshot%20(113).png)
+    ![Signup Page](https://github.com/Ayush-Agarwal-24/youtube-ai-blog-generator/blob/main/screenshots/Screenshot%202024-06-05%20143456.png)
+    ![Index Page](https://github.com/Ayush-Agarwal-24/youtube-ai-blog-generator/blob/main/screenshots/Screenshot%202024-06-05%20143536.png)
+    ![Youtube Link Added](https://github.com/Ayush-Agarwal-24/youtube-ai-blog-generator/blob/main/screenshots/Screenshot%202024-06-05%20143737.png)
+    ![Generated Blog Article](https://github.com/Ayush-Agarwal-24/youtube-ai-blog-generator/blob/main/screenshots/Screenshot%202024-06-05%20143851.png)
+    ![All Saved Blog Posts](https://github.com/Ayush-Agarwal-24/youtube-ai-blog-generator/blob/main/screenshots/Screenshot%202024-06-05%20143919.png)
+    ![Blog Post Details](https://github.com/Ayush-Agarwal-24/youtube-ai-blog-generator/blob/main/screenshots/Screenshot%202024-06-05%20144000.png)
 
 
  ## Prerequisites
@@ -31,8 +31,7 @@
 
  1. **Clone the Repository**:
     ```bash
-    git clone https://your-repository-url.git
-    cd your-project-directory
+    git clone https://github.com/Ayush-Agarwal-24/youtube-ai-blog-generator.git
 
 
  2 Set Up a Virtual Environment (optional but recommended):
@@ -65,27 +64,31 @@
  7 Access the Application: Open your web browser and go to http://127.0.0.1:8000.
 
 
-                                                         Usage
+## Usage
 
  • Home Page: Accessible at /. You need to login to use the features.
+ 
  • User Authentication: Use /login for login, /signup for registration, and /logout to log out.
+ 
  • Generating Blog Posts: After logging in, submit a YouTube link to generate a blog. The application will handle
    transcription and blog post generation.
+   
  • View Blogs: Navigate to /blogs to see all generated blog posts.
+ 
  • Blog Details: Click on any blog post to view its details.
 
 
-                                                      Contributing
+## Contributing
 
 Contributions to this project are welcome! If you have suggestions or improvements, please fork the repository and
 create a pull request or open an issue with the tag "enhancement". Don't forget to give the project a star!
 
 
-                                                        License
+## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 
-                                                        Contact
+## Contact
 
 For support or queries, reach out to me at ayushagarwal1226@gmail.com.
