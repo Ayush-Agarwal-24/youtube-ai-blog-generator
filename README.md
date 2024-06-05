@@ -86,7 +86,7 @@ create a pull request or open an issue with the tag "enhancement". Don't forget 
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 
 ## Contact
